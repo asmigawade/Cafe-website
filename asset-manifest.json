@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cafe-website/static/css/main.40185433.css",
+    "main.js": "/Cafe-website/static/js/main.363c818b.js",
+    "static/js/787.a2bf511c.chunk.js": "/Cafe-website/static/js/787.a2bf511c.chunk.js",
+    "static/media/pizza.jpeg": "/Cafe-website/static/media/pizza.404d6c4c9bc2df542a15.jpeg",
+    "static/media/expensive.jpg": "/Cafe-website/static/media/expensive.7a175d2016763ba18e64.jpg",
+    "static/media/pizzaLeft.jpg": "/Cafe-website/static/media/pizzaLeft.6847d7bcf45ab8283fab.jpg",
+    "static/media/rose.png": "/Cafe-website/static/media/rose.b7b3e7ccccea2d9d8e87.png",
+    "static/media/pizzaLogo.png": "/Cafe-website/static/media/pizzaLogo.2e994259910c45b10c17.png",
+    "static/media/vegan.jpg": "/Cafe-website/static/media/vegan.6301c240826fdbbf5268.jpg",
+    "static/media/pepperoni.jpg": "/Cafe-website/static/media/pepperoni.f0f669efdf7b0be6951f.jpg",
+    "static/media/pedrotechspecial.jpg": "/Cafe-website/static/media/pedrotechspecial.28316f18a09bc4f31916.jpg",
+    "static/media/margherita.jpg": "/Cafe-website/static/media/margherita.93218bb4608178c5f92c.jpg",
+    "index.html": "/Cafe-website/index.html",
+    "main.40185433.css.map": "/Cafe-website/static/css/main.40185433.css.map",
+    "main.363c818b.js.map": "/Cafe-website/static/js/main.363c818b.js.map",
+    "787.a2bf511c.chunk.js.map": "/Cafe-website/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40185433.css",
+    "static/js/main.363c818b.js"
+  ]
+}
